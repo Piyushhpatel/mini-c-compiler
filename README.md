@@ -53,10 +53,12 @@ For intermediate code generation, the three address code representation was used
 
 ## Summary
 This is a basic compiler with basic construct that compile source code in C into assembly if you want to see the compiler in action you can take the parser.tab.c file, compile it you will get executable file and you can pass our provide input files as test cases. 
-### Use this command after creating a.exe file
-'''
+#### Use this command after creating a.exe file
+```
 a<input.c
-'''
+
+```
+### Little Help if you want to learn
 Furthur more we are providing link for resource that might help you learn about lex , bison and compiler making
 [Jonathan Engelsma.](https://www.youtube.com/watch?v=54bo1qaHAfk)
 [Brian Robert Callahan](https://briancallahan.net/blog/20210814.html)
